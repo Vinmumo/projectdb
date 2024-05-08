@@ -1,0 +1,283 @@
+{
+    "Nissan": [
+      {
+        "id": "1",
+        "name": "Nissan Maxima",
+        "pic":"./assets/nissan/maxima.jpg",
+        "price": "Ksh. 1,599,999",
+        "description": "Nissan's flagship sedan primarily in North America, the Middle East, South Korea, and China—and currently in its eighth generation",
+        "seller": "Brian Melly",
+        "seller_img": "./assets/profile.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Nissan Armada",
+        "pic":"./assets/nissan/armada.jpg",
+        "price": "Ksh. 25,399,999",
+        "description": "The Nissan Armada (retrospectively referred to unofficially as the Nissan Pathfinder Armada) is a full-size SUV manufactured by Nissan for the North American market.",
+        "seller": "Victor Johnson",
+        "seller_img": "./assets/profile.jpeg"
+      },
+      {
+        "id": "3",
+        "name": "Nissan Kicks",
+        "pic":"./assets/nissan/kicks.jpg",
+        "price": "Ksh. 1,000,000",
+        "description": "The Nissan Kicks (Japanese: 日産・キックス, Hepburn: Nissan Kikkusu) is a subcompact crossover SUV produced by Nissan since 2016",
+        "seller": "Only Delo",
+        "seller_img": "./assets/profile.jpeg"
+      },
+      {
+        "id": "4",
+        "name": "Nissan Hybrid",
+        "pic":"./assets/nissan/hybrid.jpeg",
+        "price": "Ksh. 22,000,000",
+        "description": "The Nissan Hybrid is a mid-size car manufactured by Nissan since 1992. It is a continuation of the Nissan Bluebird line",
+        "seller": "Hybrid Merchant",
+        "seller_img": "./assets/profile.jpeg"
+      },
+      {
+        "id": "5",
+        "name": "Nissan Pathfinder",
+        "pic":"./assets/nissan/pathfinder.jpg",
+        "price": "Ksh. 17,599,999",
+        "description": "Until the third-generation model, the Pathfinder is based on Nissan's compact pickup truck platform which it shares with the Navara/Frontier.",
+        "seller": "Bolo Britney",
+        "seller_img": "./assets/profile.jpeg"
+      },
+      {
+        "id": "6",
+        "name": "Nissan Rogue",
+        "pic":"./assets/nissan/rogue.jpg",
+        "price": "Ksh. 22,599,999",
+        "description": "The Nissan Rogue is a compact crossover SUV produced by the Japanese automobile manufacturer Nissan. ",
+        "seller": "Victor Colesaw",
+        "seller_img": "./assets/profile.jpeg"
+      }
+    ],
+    "Toyota": [
+        {
+          "id": "1",
+          "name": "Toyota Avalon",
+          "pic":"./assets/toyota/avalon.jpg",
+          "price": "Ksh. 1,000,999",
+          "description": "The Toyota Avalon (Japanese: トヨタ・アバロン, Hepburn: Toyota Abaron) is a full-size sedan produced by Toyota. It is Toyota's largest front-wheel drive sedan and serves as its flagship sedan in the United States, Canada, China and the Middle East.",
+          "seller": "Brian Melly",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Toyota Corolla",
+          "pic":"./assets/toyota/corolla.jpg",
+          "price": "Ksh. 33,399,999",
+          "description": "The Toyota Corolla is a series of compact cars (formerly subcompact) manufactured and marketed globally by the Japanese automaker Toyota Motor Corporation. Introduced in 1966, the Corolla was the best-selling car worldwide by 1974 and has been one of the best-selling cars in the world since then.",
+          "seller": "Victor Johnson",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "Toyota Fortuner",
+          "pic":"./assets/toyota/fortuner.jpg",
+          "price": "Ksh. 15,000,000",
+          "description": "The Toyota Fortuner, also known as the Toyota SW4, is a mid-size SUV manufactured by the Japanese automaker Toyota since 2004. Built on the Hilux pickup truck platform, it features two/three rows of seats and is available in either rear-wheel drive or four-wheel drive configuration. ",
+          "seller": "Only Delo",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "Toyota Hilux",
+          "pic":"./assets/toyota/hilux.jpg",
+          "price": "Ksh. 22,000,000",
+          "description": "The Toyota Hilux (Japanese: トヨタ・ハイラックス, Hepburn: Toyota Hairakkusu), stylized as HiLux and historically as Hi-Lux, is a series of pickup trucks produced and marketed by the Japanese automobile manufacturer Toyota. The majority of these vehicles are sold as pickup truck or cab chassis variants, although they could be configured in a variety of body styles.",
+          "seller": "Hybrid Merchant",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "Toyota Prius",
+          "pic":"./assets/toyota/prius.jpg",
+          "price": "Ksh. 17,599,999",
+          "description": "The Toyota Prius is a compact/small family liftback (supermini/subcompact sedan until 2003) produced by Toyota. The Prius has a hybrid drivetrain, combined with an internal combustion engine and an electric motor. Initially offered as a four-door sedan",
+          "seller": "Bolo Britney",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "6",
+          "name": "Toyota Rush",
+          "pic":"./assets/toyota/rush.jpg",
+          "price": "Ksh. 22,599,999",
+          "description": "The Toyota Rush is a mini SUV produced by the Japanese automobile manufacturer Daihatsu since 1997 as the successor to the F300 series Rocky ",
+          "seller": "Victor Colesaw",
+          "seller_img": "./assets/profile.jpeg"
+        }
+      ],
+      "Mercedes": [
+        {
+          "id": "1",
+          "name": "Mercedes-Benz CLS",
+          "pic":"./assets/mercedes/cls.jpg",
+          "price": "Ksh. 1,599,999",
+          "description": "The Mercedes-Benz CLS (initially called the CLS-Class) is a series of executive cars produced by Mercedes-Benz from October 2004 to August 2023.",
+          "seller": "Brian Melly",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Mercedes-Benz GLA",
+          "pic":"./assets/mercedes/gla.jpg",
+          "price": "Ksh. 25,399,999",
+          "description": "The Mercedes-Benz GLA is a subcompact luxury crossover SUV manufactured and marketed by Mercedes-Benz over two generations. It is essentially the SUV equivalent of the A-Class, and the smallest SUV marketed by the brand.",
+          "seller": "Victor Johnson",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "Mercedes-Benz GLB",
+          "pic":"./assets/mercedes/glb.jpg",
+          "price": "Ksh. 1,000,000",
+          "description": "The Mercedes-Benz GLB (model code X247) is a crossover SUV produced by Mercedes-Benz. It was unveiled by the German manufacturer Daimler AG on 10 June 2019 in Park City, Utah.[4] It was previously unveiled as a concept car to the public at the Shanghai Auto Show in April 2019.",
+          "seller": "Only Delo",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "Mercedes-Benz GLC",
+          "pic":"./assets/mercedes/glc.jpg",
+          "price": "Ksh. 22,000,000",
+          "description": "The Mercedes-Benz GLC is a compact luxury crossover SUV introduced in 2015 for the 2016 model year that replaced the GLK-Class. According to Mercedes-Benz, it is the SUV equivalent to the C-Class.",
+          "seller": "Hybrid Merchant",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "Mercedes-Benz GLE",
+          "pic":"./assets/mercedes/gle.jpg",
+          "price": "Ksh. 17,599,999",
+          "description": "The Mercedes-Benz GLE, formerly Mercedes-Benz M-Class, is a mid-size luxury SUV produced by the German manufacturer Mercedes-Benz since 1997. In terms of size, it is slotted in between the smaller GLC and the larger GLS, the latter with which it shares platforms.",
+          "seller": "Bolo Britney",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "6",
+          "name": "Mercedes-Benz Maybach",
+          "pic":"./assets/mercedes/maybach.jpg",
+          "price": "Ksh. 22,599,999",
+          "description": "The Maybach 57 (chassis no. W240) and 62 (chassis no. V240) were the first automobile models of the Maybach brand since its revival by DaimlerChrysler AG (now Mercedes-Benz Group AG). They are derived from the Mercedes-Benz Maybach concept car presented at the 1997 Tokyo Motor Show. ",
+          "seller": "Victor Colesaw",
+          "seller_img": "./assets/profile.jpeg"
+        }
+      ],
+      "BMW": [
+        {
+          "id": "1",
+          "name": "BMW I7",
+          "pic":"./assets/bmw/i7.jpg",
+          "price": "Ksh. 19,599,999",
+          "description": "The BMW i7 model is the battery electric variant of the G70.[60] Unveiled simultaneously with its ICE counterpart,[61] the vehicle features a similar powertrain setup to the iX crossover SUV, including an excited synchronous electric motor at the rear for rear-wheel drive models while on all-wheel drive models, two motors are placed at both front and rear axles",
+          "seller": "Brian Melly",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "BMW X3",
+          "pic":"./assets/bmw/x3.jpg",
+          "price": "Ksh. 25,399,999",
+          "description": "The BMW X3 is an SUV manufactured by BMW since 2003, based on the BMW 3 Series platform. Now in its third generation, BMW markets the car as a Sports Activity Vehicle, the company's proprietary descriptor for its X-line luxury vehicles.",
+          "seller": "Victor Johnson",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "BMW X4",
+          "pic":"./assets/bmw/x4.jpeg",
+          "price": "Ksh. 1,000,000",
+          "description": "The BMW X4 is a compact luxury crossover SUV manufactured by BMW since 2014. It is marketed as a sports activity coupé (SAC),[1] the second model from BMW marketed as such after the X6, and features styling elements and the roofline of a traditional two-door coupé",
+          "seller": "Only Delo",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "BMW X5",
+          "pic":"./assets/bmw/x5.jpg",
+          "price": "Ksh. 22,000,000",
+          "description": "The BMW X5 is a mid-size luxury crossover SUV produced by BMW.[1] The X5 made its debut in 1999 as the E53 model. It was BMW's first SUV",
+          "seller": "Hybrid Merchant",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "BMW X6",
+          "pic":"./assets/bmw/x6.jpeg",
+          "price": "Ksh. 17,599,999",
+          "description": "The BMW X6 is a mid-size luxury crossover SUV by German automaker BMW. The BMW X6 is the originator of the sports activity coupé (SAC), referencing its sloping rear roof design.",
+          "seller": "Bolo Britney",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "6",
+          "name": "BMW X7",
+          "pic":"./assets/bmw/x7.jpeg",
+          "price": "Ksh. 55,599,999",
+          "description": "The BMW X7 is a full-sized luxury sport utility vehicle manufactured by BMW. It is BMW's largest and 2nd most expensive SUV in its line-up",
+          "seller": "Victor Colesaw",
+          "seller_img": "./assets/profile.jpeg"
+        }
+      ],
+      "Audi": [
+        {
+          "id": "1",
+          "name": "Audi A1",
+          "pic":"./assets/audi/a1.jpg",
+          "price": "Ksh. 1,599,999",
+          "description": "The Audi A1 is a supermini car launched by Audi at the 2010 Geneva Motor Show. Sales of the initial three-door A1 model started in Germany in August 2010, with the United Kingdom following in November 2010",
+          "seller": "Brian Melly",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Audi A6",
+          "pic":"./assets/audi/a6.jpg",
+          "price": "Ksh. 25,399,999",
+          "description": "The Audi A6 is an executive car made by the German company Audi since 1994. Now in its fifth generation, the successor to the Audi 100 is manufactured in Neckarsulm, Germany, and is available in saloon and estate configurations, the latter marketed by Audi as the Avant.",
+          "seller": "Victor Johnson",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "Audi Q7",
+          "pic":"./assets/audi/q7.jpg",
+          "price": "Ksh. 1,000,000",
+          "description": "The Audi Q7 is a crossover SUV made by the German manufacturer Audi, unveiled in September 2005 at the Frankfurt Motor Show.",
+          "seller": "Only Delo",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "Audi Q8",
+          "pic":"./assets/audi/q8.png",
+          "price": "Ksh. 22,000,000",
+          "description": "The Audi Q8 is a mid-size luxury crossover SUV coupé made by Audi that was launched in 2018",
+          "seller": "Hybrid Merchant",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "Audi Q9",
+          "pic":"./assets/audi/q9.jpeg",
+          "price": "Ksh. 177,599,999",
+          "description": " Audi Q9 is in the testing and fine-tuning phase of its development. It will sit above the Q7 in the brand's lineup, taking on the flagship crossover role.",
+          "seller": "Bolo Britney",
+          "seller_img": "./assets/profile.jpeg"
+        },
+        {
+          "id": "6",
+          "name": "Audi R8",
+          "pic":"./assets/audi/r8.jpg",
+          "price": "Ksh. 22,599,999",
+          "description": "The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system. ",
+          "seller": "Victor Colesaw",
+          "seller_img": "./assets/profile.jpeg"
+        }
+      ],
+      "Customers": []
+  }
