@@ -1,5 +1,5 @@
 export function getAudi(){
-    fetch("http://localhost:3000/Audi",{
+    fetch("https://projectdb-885a.onrender.com/Audi",{
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -9,7 +9,7 @@ export function getAudi(){
 }
 
 export function getNisaan(){
-    fetch("http://localhost:3000/Nissan",{
+    fetch("https://projectdb-885a.onrender.com/Nissan",{
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -19,7 +19,7 @@ export function getNisaan(){
 }
 
 export function getToyota(){
-    fetch("http://localhost:3000/Toyota",{
+    fetch("https://projectdb-885a.onrender.com/Toyota",{
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -29,7 +29,7 @@ export function getToyota(){
 }
 
 export function getMercedes(){
-    fetch("http://localhost:3000/Mercedes",{
+    fetch("https://projectdb-885a.onrender.com/Mercedes",{
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -39,7 +39,7 @@ export function getMercedes(){
 }
 
 export function getBMW(){
-    fetch("http://localhost:3000/BMW",{
+    fetch("https://projectdb-885a.onrender.com/BMW",{
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -49,7 +49,7 @@ export function getBMW(){
 }
 
 export function getCustomers(){
-    fetch("http://localhost:3000/Customers",{
+    fetch("https://projectdb-885a.onrender.com/Customers",{
         method: "GET",
         headers: {
             "Content-Type": "application/json"
@@ -59,7 +59,7 @@ export function getCustomers(){
 }
 
 export function postCustomers(customer){
-    fetch("http://localhost:3000/Customers",{
+    fetch("https://projectdb-885a.onrender.com/Customers",{
         method: "POST",
         headers: {
             "Content-Type": "application/json"
